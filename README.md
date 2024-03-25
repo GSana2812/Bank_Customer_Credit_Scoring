@@ -9,9 +9,9 @@ in order to access if the product (bank term deposit) would be ('yes') or not ('
 
 This is a classification problem, taking 3 features into account to perform predictions:
 
--job - job name
--duration - loan duration
--poutcome - outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
+-job - job name <br>
+-duration - loan duration <br>
+-poutcome - outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success') <br>
 
 This project is to showcase, a new concept added in the repertory of my professional skills, which is docker compose.
 In the previous projects, I used a single Dockerfile for all the containerization of the app. In this project, im trying
